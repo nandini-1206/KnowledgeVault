@@ -1,0 +1,6 @@
+.env
+*.class
+target/
+out/
+.idea/
+*.log
